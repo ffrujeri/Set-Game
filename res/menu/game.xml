@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.inf431.set.GameActivity" >
+
+    <item
+        android:id="@+id/action_hint"
+        android:orderInCategory="100"
+        android:title="@string/action_hint"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_how_to_play"
+        android:orderInCategory="100"
+        android:title="@string/action_how_to_play"
+        app:showAsAction="never"/>
+    
+</menu>
